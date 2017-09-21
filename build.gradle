@@ -1,11 +1,10 @@
 apply plugin: 'java'
 apply plugin: 'eclipse'
 
+group = 'org.hajo.selectivesuite'
+version = '0.1'
 
-group = 'org.hajo.filteringsuite'
-version = '0.0.1-SNAPSHOT'
-
-description = """FilteringSuite"""
+description = """SelectiveSuite"""
 
 sourceCompatibility = 1.7
 targetCompatibility = 1.7
